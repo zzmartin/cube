@@ -1,4 +1,4 @@
-<script>
+
 var canvas;
 var gl;
 
@@ -116,4 +116,4 @@ function render() {
 
     requestAnimFrame(render);
 }
-</script>
+
